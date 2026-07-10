@@ -122,4 +122,5 @@ python project1_rule_based_chatbot.py
 
 # Screenshots
 
-> Add screenshots of the chatbot running in the terminal here.
+<img width="1242" height="665" alt="image" src="https://github.com/user-attachments/assets/10ac3543-2c98-4e58-b05b-e0baf14e71f2" />
+
