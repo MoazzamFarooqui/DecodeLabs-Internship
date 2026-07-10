@@ -59,7 +59,7 @@ Throughout this internship, I will build multiple projects that strengthen my un
 DecodeLabs-Internship/
 │
 ├── README.md
-├── Project-1-Rule-Based-AI-Chatbot/
+├── Project-1/
 ├── Project-2/
 ├── Project-3/
 └── Project-4/
