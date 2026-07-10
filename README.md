@@ -76,11 +76,12 @@ Each project folder includes a dedicated README containing:
 - Project Overview
 - Features
 - Technologies Used
+- Program Workflow
 - Installation
 - Usage
+- Supported Commands
 - Screenshots
-- Learning Outcomes
-
+  
 ---
 
 ## Screenshots
