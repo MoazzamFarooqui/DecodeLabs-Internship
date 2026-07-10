@@ -82,15 +82,14 @@ git clone https://github.com/MoazzamFarooqui/DecodeLabs-Internship.git
 ### Navigate to the project directory
 
 ```bash
-cd DecodeLabs-Internship/Project-1-Rule-Based-AI-Chatbot
+cd DecodeLabs-Internship/Project1
 ```
 
 ### Run the chatbot
 
 ```bash
-python chatbot.py
+python project1_rule_based_chatbot.py
 ```
-
 ---
 
 # Usage
