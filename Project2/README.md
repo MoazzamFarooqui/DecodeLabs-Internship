@@ -67,12 +67,12 @@ Here is a preview of how the dataset is structured:
 
 ## Technologies Used
 
-* **Python**
-* **NumPy**
-* **Pandas**
-* **Matplotlib**
-* **Scikit-learn**
-* **Jupyter Notebook**
+* Python
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-learn
+* Jupyter Notebook
 
 ---
 
