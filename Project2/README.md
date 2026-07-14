@@ -96,17 +96,12 @@ Here is a preview of how the dataset is structured:
 
 Clone the repository:
 ```bash
-git clone https://github.com/MoazzamFarooqui/Iris-Flower-Classification.git
+git clone https://github.com/MoazzamFarooqui/DecodeLabs-Internship.git
 ```
 
 Navigate to the project directory:
 ```bash
 cd Iris-Flower-Classification
-```
-
-Install the required packages:
-```bash
-pip install -r requirements.txt
 ```
 
 Open the notebook:
