@@ -101,7 +101,12 @@ git clone https://github.com/MoazzamFarooqui/DecodeLabs-Internship.git
 
 Navigate to the project directory:
 ```bash
-cd cd DecodeLabs-Internship/Project2
+cd DecodeLabs-Internship/Project2
+```
+Install the required packages
+
+```bash
+pip install -r requirements.txt
 ```
 
 Open the notebook:
