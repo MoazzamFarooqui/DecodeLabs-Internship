@@ -101,7 +101,7 @@ git clone https://github.com/MoazzamFarooqui/DecodeLabs-Internship.git
 
 Navigate to the project directory:
 ```bash
-cd Iris-Flower-Classification
+cd cd DecodeLabs-Internship/Project2
 ```
 
 Open the notebook:
