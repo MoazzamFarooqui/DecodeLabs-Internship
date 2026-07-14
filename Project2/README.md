@@ -124,16 +124,21 @@ jupyter notebook
 
 ## Screenshots
 
+### Dataset Overview
+
 <img width="797" height="220" alt="image" src="https://github.com/user-attachments/assets/7f7ba95a-7300-40ed-b372-02aa064d1fd9" />
 
 ---
+
+### Error Rate vs. K Value
 
 <img width="1082" height="577" alt="image" src="https://github.com/user-attachments/assets/bf66ce64-ea6f-41d0-bf3b-ef2c45d53a63" />
 
 ---
 
+### Confusion Matrix
+
 <img width="545" height="437" alt="image" src="https://github.com/user-attachments/assets/8d116978-e172-4154-8e83-fe449ff37132" />
 
 ---
-
 
