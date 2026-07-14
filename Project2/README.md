@@ -35,6 +35,7 @@ This project uses the KNN algorithm to classify Iris flowers into their respecti
 ---
 
 ## Features
+
 * **Iris Flower Species Classification** using the KNN algorithm.
 * **Data Preprocessing and Feature Scaling** utilizing Scikit-learn's `StandardScaler`.
 * **Hyperparameter Tuning** to find the optimal K value based on error rates.
@@ -60,17 +61,12 @@ The project uses the built-in Iris Dataset available in Scikit-learn.
 ### Sample Data
 Here is a preview of how the dataset is structured:
 
-| Sepal Length (cm) | Sepal Width (cm) | Petal Length (cm) | Petal Width (cm) | Species |
-| :---: | :---: | :---: | :---: | :---: |
-| 5.1 | 3.5 | 1.4 | 0.2 | setosa |
-| 4.9 | 3.0 | 1.4 | 0.2 | setosa |
-| 4.7 | 3.2 | 1.3 | 0.2 | setosa |
-| 4.6 | 3.1 | 1.5 | 0.2 | setosa |
-| 5.0 | 3.6 | 1.4 | 0.2 | setosa |
+<img width="772" height="213" alt="image" src="https://github.com/user-attachments/assets/d979c428-8ff9-4596-83a6-03dce74cf477" />
 
 ---
 
 ## Technologies Used
+
 * **Python**
 * **NumPy**
 * **Pandas**
