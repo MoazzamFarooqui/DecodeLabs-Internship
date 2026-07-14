@@ -30,7 +30,7 @@ A machine learning project that classifies Iris flowers into different species b
 ## Project Overview
 Classifying flowers based on their physical characteristics is a common machine learning classification problem. Measurements such as sepal length, sepal width, petal length, and petal width can be used to accurately identify different Iris species.
 
-This project uses the **K-Nearest Neighbors (KNN)** algorithm to classify Iris flowers into their respective species. The workflow includes data preprocessing, feature scaling, model training, hyperparameter tuning, and performance evaluation.
+This project uses the KNN algorithm to classify Iris flowers into their respective species. The workflow includes data preprocessing, feature scaling, model training, hyperparameter tuning, and performance evaluation.
 
 ---
 
@@ -117,6 +117,7 @@ jupyter notebook
 ---
 
 ## Usage
+
 1. Open the Jupyter Notebook environment.
 2. Run all notebook cells sequentially.
 3. Observe the preprocessing and feature scaling steps.
@@ -127,31 +128,16 @@ jupyter notebook
 
 ## Screenshots
 
-### Dataset Overview
-*Initial look at the Iris features and species classification targets inside the Pandas DataFrame:*
+<img width="797" height="220" alt="image" src="https://github.com/user-attachments/assets/7f7ba95a-7300-40ed-b372-02aa064d1fd9" />
 
-```text
-   sepal length (cm)  sepal width (cm)  petal length (cm)  petal width (cm) Species
-0                5.1               3.5                1.4               0.2  setosa
-1                4.9               3.0                1.4               0.2  setosa
-2                4.7               3.2                1.3               0.2  setosa
-3                4.6               3.1                1.5               0.2  setosa
-4                5.0               3.6                1.4               0.2  setosa
-```
+---
 
-### Error Rate vs. K Value
-*Plot showing the classification error rate across different neighbor (K) settings to find the sweet spot:*
+<img width="1082" height="577" alt="image" src="https://github.com/user-attachments/assets/bf66ce64-ea6f-41d0-bf3b-ef2c45d53a63" />
 
-```text
-[Matplotlib Generated Plot: Error Rate vs. K Value]
-```
+---
 
-### Confusion Matrix
-*Evaluation matrix displaying correct vs. incorrect classifications on the test partition:*
+<img width="545" height="437" alt="image" src="https://github.com/user-attachments/assets/8d116978-e172-4154-8e83-fe449ff37132" />
 
-```text
---- DIAGNOSTIC MATRIX ---
-            setosa  versicolor  virginica
-setosa          10           0          0
-versicolor       0           9          0
-virginica        0           0         11
+---
+
+
